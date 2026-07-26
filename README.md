@@ -1,2 +1,2 @@
-# QRify-Public
-Public Repository for QRify. Website for QRify
+# QRify-Legal
+Lgal Repository for QRify. Host **Privacy Policy** and **Terms and Conditions**
