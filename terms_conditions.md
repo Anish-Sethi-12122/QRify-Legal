@@ -1,6 +1,6 @@
 # QRify — Terms & Conditions
 
-**Effective Date:** July 10, 2026
+**Effective Date:** July 26, 2026
 
 
 
