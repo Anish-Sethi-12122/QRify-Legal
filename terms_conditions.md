@@ -1,6 +1,6 @@
 # QRify — Terms & Conditions
 
-**Effective Date:** July 26, 2026
+**Effective Date:** August 25, 2026
 
 
 
@@ -136,8 +136,7 @@ You agree to indemnify, defend, and hold harmless the the Developer(s) from and 
 
 - You may stop using QRify at any time by uninstalling the application.
 - QRify reserves the right to discontinue QRify or any of its features at any time, with or without prior notice.
-- Upon termination of your use (whether by uninstallation or discontinuation), these Terms cease to apply, except for sections that by their nature should survive (including Limitation of Liability, Indemnification, and Intellectual Property).
-
+- Upon termination of your use (whether by uninstallation or discontinuation), these Terms cease to apply, except for sections that by their nature should survive (including Limitation of Liability, Indemnification, and Intellectual Property).  
 
 
 ## Changes to These Terms
@@ -145,7 +144,8 @@ You agree to indemnify, defend, and hold harmless the the Developer(s) from and 
 These Terms may be updated from time to time. When changes are made:
 
 - The **"Effective Date"** at the top of this document will be updated.
-- The **in-app version** of these Terms is the authoritative version until a dedicated website is available.
+- A copy of the Privacy Policy is made available to view **in-app**, you can view the current version of this policy in-app by tapping the "Terms and Conditions" link in the app's settings menu.
+- Additionally, Terms and Conditions can be viewed at [QRify's website](https://qrify-website.netlify.app/terms).
 - Material changes will be reflected in an updated version of this in-app document.
 - Your continued use of QRify after changes to these Terms constitutes your acceptance of the updated Terms.
 
@@ -188,6 +188,6 @@ If you have questions, concerns, or feedback about these Terms, please contact:
 - **Developer:** Anish Sethi
 - **Email:** support.qrify@gmail.com
 - **Location:** India
-- **Website:** Coming Soon  
+- **Website:** [QRify Terms and Conditions](https://qrify-website.netlify.app/terms) 
 
 **© 2026 Anish Sethi. All rights reserved.**
