@@ -1,6 +1,6 @@
 # QRify — Privacy Policy
 
-**Effective Date:** July 26, 2026
+**Effective Date:** August 25, 2026
 
 
 
@@ -250,7 +250,8 @@ If you have questions, concerns, or feedback about this Privacy Policy or QRify'
 
 This Privacy Policy may be updated from time to time to reflect changes in QRify's functionality or applicable regulations.
 
-- The **in-app version** of this Privacy Policy is the authoritative version until a dedicated website is available.
+- A copy of the Privacy Policy is made available to view in-app, you can view the current version of this policy in-app by tapping the "Privacy Policy" link in the app's settings menu.
+- Additionally, Privacy Policy can be viewed at [QRify's website](https://qrify-website.netlify.app/privacy)
 - Material changes will be communicated through an update to this in-app document.
 - The "Effective Date" at the top of this policy will be updated to reflect the date of the most recent revision.
 
